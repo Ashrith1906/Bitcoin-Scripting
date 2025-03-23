@@ -1,5 +1,17 @@
 # *Bitcoin Scripting Assignment - README*
 
+--
+
+## *Team Information*
+*Team Name:* HASHFLOW  
+*Team Members:*
+- Kotha Ashrith Reddy (230001043)
+- Buditi Deepak (230001016)
+- Avvaru Venkata Sai Deepak (230001011)
+- Vivek Tej Kanakam (230041014)
+
+--
+
 ## *Project Overview*
 This project demonstrates Bitcoin transactions using two address types:
 - *Legacy Transactions (P2PKH)*
@@ -159,16 +171,6 @@ This project successfully implements and analyzes both *Legacy (P2PKH) and SegWi
 - *The importance of SegWit in addressing transaction malleability* and enabling scaling solutions like the Lightning Network.
 
 By working with Bitcoin Core RPC and scripting transactions in Python, we gain a practical understanding of Bitcoin's transaction structure and efficiency improvements in newer formats.
-
----
-
-## *Team Information*
-*Team Name:* HASHFLOW  
-*Team Members:*
-- K. Ashrith Reddy (230001043)
-- B. Deepak (230001016)
-- A. Venkata Sai Deepak (230001011)
-- Vivek Tej Kanakam (230041014)
 
 ---
 
