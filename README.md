@@ -23,8 +23,8 @@ Ensure the following software is installed:
 - *Bitcoin Core* (Testnet/Regtest Mode)
 - *Python 3*
 - *Required Libraries:*
-  sh
-  pip install python-bitcoinrpc
+  
+ `pip install python-bitcoinrpc`
   
 
 ### *Bitcoin Core Configuration*
@@ -40,8 +40,8 @@ rpcport=18332
 
 
 Start Bitcoin Core in testnet mode:
-sh
-bitcoind -daemon -testnet
+
+`bitcoind -daemon -testnet`
 
 
 ---
@@ -54,8 +54,8 @@ bitcoind -daemon -testnet
 
 ## *How to Run the Scripts*
 ### *1. Run Legacy Transactions (P2PKH)*
-sh
-python p2pkh.py
+
+`python p2pkh.py`
 
 This script:
 - Creates a wallet if not already existing.
@@ -67,8 +67,8 @@ This script:
 - Checks final balance.
 
 ### *2. Run SegWit Transactions (P2SH-P2WPKH)*
-sh
-python segwit.py
+
+`python segwit.py`
 
 This script:
 - Uses the same wallet.
@@ -83,7 +83,7 @@ This script:
 
 ## *Expected Output Format*
 ### *Legacy Transactions (P2PKH)*
-sh
+
 `[WALLET STATUS]`
 `Wallet Balance: 12661.00000840 BTC`
 `[MINING] Generating 101 blocks...`
@@ -97,7 +97,7 @@ sh
 
 
 ### *SegWit Transactions (P2SH-P2WPKH)*
-sh
+
 `[WALLET STATUS]
 Wallet Balance: 13510.99998590 BTC
 [MINING] Generating 101 blocks...
