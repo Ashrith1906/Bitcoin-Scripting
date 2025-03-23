@@ -1,4 +1,4 @@
-# *Bitcoin Scripting Assignment
+# Bitcoin Scripting Assignment
 
 ## *Team Information*
 *Team Name:* HASHFLOW  
