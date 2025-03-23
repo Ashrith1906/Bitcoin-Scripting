@@ -84,31 +84,27 @@ This script:
 ## *Expected Output Format*
 ### *Legacy Transactions (P2PKH)*
 
-`[WALLET STATUS]`
-`Wallet Balance: 12661.00000840 BTC`
-`[MINING] Generating 101 blocks...`
-`[TRANSFER] Sending 1 BTC from A to B
-[TX] Dispatched TXID: 79f86c...`
-`[ANALYSIS] Checking transaction for B's ScriptPubKey
-[SCRIPTPUBKEY FOUND] Address B -> ScriptPubKey: 76a914...
-[TRANSFER] Sending 0.5 BTC from B to C
-[TX] Dispatched TXID: 139ebf...
-[FINAL BALANCE] 12661.00000840 BTC`
-
+[WALLET STATUS]  Wallet Balance: 12661.00000840 BTC  
+[MINING]  Generating 101 blocks...  
+[TRANSFER] Sending 1 BTC from A to B  
+[TX]  Dispatched TXID: 79f86c...  
+[ANALYSIS]  Checking transaction for B's ScriptPubKey  
+[SCRIPTPUBKEY FOUND]  Address B -> ScriptPubKey: 76a914...  
+[TRANSFER]  Sending 0.5 BTC from B to C  
+[TX]  Dispatched TXID: 139ebf...  
+[FINAL BALANCE]  12661.00000840 BTC
 
 ### *SegWit Transactions (P2SH-P2WPKH)*
 
-`[WALLET STATUS]
-Wallet Balance: 13510.99998590 BTC
-[MINING] Generating 101 blocks...
-[TRANSFER] Sending 1 BTC from A' to B'
-[TX] Dispatched TXID: bd2d61...
-[ANALYSIS] Checking transaction for B's ScriptPubKey
-[SCRIPTPUBKEY FOUND] Address B' -> ScriptPubKey: 0014...
-[TRANSFER] Sending 0.5 BTC from B' to C'
-[TX] Dispatched TXID: 5083bf...
-[FINAL BALANCE] 13510.99998590 BTC`
-
+[WALLET STATUS]  Wallet Balance: 13510.99998590 BTC  
+[MINING]  Generating 101 blocks...  
+[TRANSFER]  Sending 1 BTC from A' to B'  
+[TX]  Dispatched TXID: bd2d61...  
+[ANALYSIS]  Checking transaction for B's ScriptPubKey  
+[SCRIPTPUBKEY FOUND]  Address B' -> ScriptPubKey: 0014...  
+[TRANSFER]  Sending 0.5 BTC from B' to C'  
+[TX]  Dispatched TXID: 5083bf...  
+[FINAL BALANCE]  13510.99998590 BTC
 
 ---
 
