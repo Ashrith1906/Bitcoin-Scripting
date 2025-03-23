@@ -1,16 +1,13 @@
-# *Bitcoin Scripting Assignment - README*
-
---
+# *Bitcoin Scripting Assignment
 
 ## *Team Information*
 *Team Name:* HASHFLOW  
 *Team Members:*
-- Kotha Ashrith Reddy (230001043)
-- Buditi Deepak (230001016)
-- Avvaru Venkata Sai Deepak (230001011)
-- Vivek Tej Kanakam (230041014)
+- Kotha Ashrith Reddy  - 230001043
+- Buditi Deepak   -   230001016
+- Avvaru Venkata Sai Deepak   -   230001011
+- Vivek Tej Kanakam   -   230041014
 
---
 
 ## *Project Overview*
 This project demonstrates Bitcoin transactions using two address types:
