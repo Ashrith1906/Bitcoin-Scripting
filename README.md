@@ -46,7 +46,7 @@ bitcoind -daemon -testnet
 
 ---
 
-## *Project Structure*
+## *Project Files*
 - p2pkh.py - Implements *Legacy Transactions (P2PKH)*
 - segwit.py - Implements *SegWit Transactions (P2SH-P2WPKH)*
 
@@ -174,5 +174,3 @@ By working with Bitcoin Core RPC and scripting transactions in Python, we gain a
 ## *References*
 - Bitcoin Core Documentation
 - Learning Bitcoin from the Command Line (GitHub)
-
-*[End of README]*
